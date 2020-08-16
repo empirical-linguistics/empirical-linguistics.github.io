@@ -93,11 +93,12 @@ p.main{
 	margin-right: 50px;
 	margin-left: 60px;
 	font-size: 20px;
-	margin-bottom:30px;
-	margin-top: 0px;
+	margin-bottom:5px;
+	margin-top: 20px;
 }
 
 p.bottom {
+	margin-top: 5px !important;
 	margin-right: 50px !important;
 	margin-left: 60px !important;
 	text-align: center !important;
